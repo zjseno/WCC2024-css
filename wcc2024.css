@@ -1,1 +1,22 @@
-/*# sourceMappingURL=wcc2024.css.map */
+.wp-block-button__link:hover {
+  filter: brightness(95%);
+}
+
+/*Tablet*/
+@media screen and (max-width: 1072px) {
+  /*Header*/
+  header .wp-block-group {
+    justify-content: center;
+  }
+  /*Main*/
+  main div.wp-block group {
+    padding: 20px 20px;
+  }
+}
+/*Mobile*/
+@media screen and (max-width: 600px) {
+  /*Header*/
+  header .wp-block-group {
+    justify-content: space-between;
+  }
+}/*# sourceMappingURL=wcc2024.css.map */
