@@ -8,6 +8,9 @@
   top: 1070px;
 }
 
+.home-hero {
+  position: relative;
+}
 .home-hero .wp-block-columns {
   height: 100%;
 }
