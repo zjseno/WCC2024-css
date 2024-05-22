@@ -11,10 +11,7 @@
 .home-hero {
   position: relative;
 }
-.home-hero .wp-block-columns {
-  height: 100%;
-}
-.home-hero .wp-block-columns .right-border {
+.home-hero .right-border {
   position: absolute;
 }
 .home-hero .home-hero-star {
