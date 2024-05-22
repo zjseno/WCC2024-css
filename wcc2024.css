@@ -18,10 +18,14 @@
 .wordcamp-sponsors li.wordcamp-post-list__post {
   display: flex;
   align-items: center;
+  aspect-ratio: 1/1;
   height: 300px;
-  width: auto;
   background: #fff;
   padding: 10px;
+}
+.wordcamp-sponsors li.wordcamp-post-list__post img {
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 
 /*Tablet*/
