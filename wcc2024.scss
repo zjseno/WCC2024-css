@@ -34,11 +34,31 @@ $black: #000;
 	display: flex;
 	align-items: center;
 	height: 300px;
+	width: auto;
 	background: $white;
     padding: 10px;
 }
 
 /*Tablet*/
+@media screen and (max-width: 1072px) {
+	/*Header*/
+	header {
+        .wp-block-group {
+		justify-content: center;
+	}
+    }
+	
+	/*Main*/
+	main {
+        div.wp-block-group {
+			//padding: 20px 20px;
+		}
+	}
+
+
+}
+
+//WP-tablet
 @media screen and (max-width: 1072px) {
 	/*Header*/
 	header {
@@ -74,3 +94,20 @@ $black: #000;
 		
 	}
 }
+
+@media screen and (max-width: 600px) {
+	/*Header*/
+		/*Header*/
+		header {
+			.wp-block-group {
+			justify-content: space-between;
+		}
+		}
+		.home-hero{
+	
+			.right-border{
+				display: none;
+			}
+			
+		}
+	}
