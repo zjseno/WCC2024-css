@@ -8,16 +8,16 @@
   top: 1070px;
 }
 
+.home-hero {
+  position: relative;
+}
 .home-hero .wp-block-columns {
   height: 100%;
 }
-.home-hero .wp-block-columns .right-border img {
-  height: 100%;
+.home-hero .wp-block-columns .right-border {
+  position: absolute;
 }
-.home-hero .hero-left-column {
-  position: relative;
-}
-.home-hero .hero-left-column .home-hero-star {
+.home-hero .home-hero-star {
   position: absolute;
   bottom: 0px;
 }

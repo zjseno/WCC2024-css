@@ -19,23 +19,21 @@ $black: #000;
 }
 
 .home-hero{
-	
+	position: relative;
 
 	.wp-block-columns{
 		height: 100%;
 		
-		.right-border img{
-			height: 100%;
+		.right-border{
+			position: absolute;
 		}
 	}
-	.hero-left-column{
-		position: relative;
 		
-		.home-hero-star{
-		position: absolute;
-		bottom: 0px;
-	}
-	}
+
+	.home-hero-star{
+	position: absolute;
+	bottom: 0px;
+}
 
 	
 }
