@@ -19,7 +19,7 @@ $black: #000;
 }
 
 .home-hero{
-	position: relative;
+	
 
 	.wp-block-columns{
 		height: 100%;
@@ -28,11 +28,16 @@ $black: #000;
 			height: 100%;
 		}
 	}
-
-	.home-hero-star{
+	.hero-left-column{
+		position: relative;
+		
+		.home-hero-star{
 		position: absolute;
 		bottom: 0px;
 	}
+	}
+
+	
 }
 
 
