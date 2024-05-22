@@ -33,12 +33,12 @@ $black: #000;
 .wordcamp-sponsors li.wordcamp-post-list__post{
 	display: flex;
 	align-items: center;
-	aspect-ratio: 1/1;
 	height: 300px;
 	background: $white;
     padding: 10px;
 
 	img{
+		width: 100%;
 		object-fit: contain;
 	}
 }
