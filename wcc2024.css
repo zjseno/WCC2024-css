@@ -22,11 +22,6 @@
   background: #fff;
   padding: 10px;
 }
-.wordcamp-sponsors li.wordcamp-post-list__post img {
-  width: 100%;
-  -o-object-fit: contain;
-     object-fit: contain;
-}
 
 /*Tablet*/
 @media screen and (max-width: 1072px) {
