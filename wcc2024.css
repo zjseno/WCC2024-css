@@ -13,6 +13,7 @@
 }
 .home-hero .right-border {
   position: absolute;
+  right: 0;
 }
 .home-hero .home-hero-star {
   position: absolute;
