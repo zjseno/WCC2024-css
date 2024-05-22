@@ -8,6 +8,14 @@
   top: 1070px;
 }
 
+.home-hero {
+  height: 90vh;
+}
+.home-hero .home-hero-star {
+  position: absolute;
+  bottom: 0px;
+}
+
 .wordcamp-sponsors li.wordcamp-post-list__post {
   display: flex;
   align-items: center;
@@ -23,7 +31,7 @@
     justify-content: center;
   }
   /*Main*/
-  main div.wp-block group {
+  main div.wp-block-group {
     padding: 20px 20px;
   }
 }
