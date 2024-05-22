@@ -2,6 +2,19 @@
   filter: brightness(95%);
 }
 
+.mango-img {
+  position: absolute;
+  right: 200px;
+  top: 1070px;
+}
+
+.wordcamp-sponsors li.wordcamp-post-list__post {
+  display: flex;
+  align-items: center;
+  background: #fff;
+  padding: 10px;
+}
+
 /*Tablet*/
 @media screen and (max-width: 1072px) {
   /*Header*/
@@ -15,6 +28,7 @@
 }
 /*Mobile*/
 @media screen and (max-width: 600px) {
+  /*Header*/
   /*Header*/
   header .wp-block-group {
     justify-content: space-between;

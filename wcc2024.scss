@@ -1,25 +1,55 @@
+$red: #D12327;
+$orange: #F15824;
+$yellow: #FBA919;
+$y-green: #76C154;
+$green: #14A25E;
+$blue: #3F4FA2;
+$white: #fff;
+$black: #000;
+
+
 .wp-block-button__link:hover {
 	filter: brightness(95%);
+}
+
+.mango-img{
+    position: absolute;
+    right: 200px;
+    top: 1070px;
+}
+
+.wordcamp-sponsors li.wordcamp-post-list__post{
+	display: flex;
+	align-items: center;
+	background: $white;
+    padding: 10px;
 }
 
 /*Tablet*/
 @media screen and (max-width: 1072px) {
 	/*Header*/
-	header .wp-block-group {
+	header {
+        .wp-block-group {
 		justify-content: center;
 	}
+    }
 	
 	/*Main*/
-	main div.wp-block group {
+	main {
+        div.wp-block group {
 		padding: 20px 20px;
 	}
+}
 }
 
 /*Mobile*/
 @media screen and (max-width: 600px) {
 /*Header*/
-	header .wp-block-group {
+	/*Header*/
+	header {
+        .wp-block-group {
 		justify-content: space-between;
 	}
+    }
 	
 }
