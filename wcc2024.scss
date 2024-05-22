@@ -60,13 +60,7 @@ $black: #000;
 		}
 	}
 
-	.home-hero{
 
-		.right-border{
-			display: none;
-		}
-		
-	}
 }
 
 /*Mobile*/
@@ -78,5 +72,11 @@ $black: #000;
 		justify-content: space-between;
 	}
     }
-	
+	.home-hero{
+
+		.right-border{
+			display: none;
+		}
+		
+	}
 }

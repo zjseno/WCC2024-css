@@ -39,9 +39,6 @@
   main div.wp-block-group {
     padding: 20px 20px;
   }
-  .home-hero .right-border {
-    display: none;
-  }
 }
 /*Mobile*/
 @media screen and (max-width: 600px) {
@@ -49,5 +46,8 @@
   /*Header*/
   header .wp-block-group {
     justify-content: space-between;
+  }
+  .home-hero .right-border {
+    display: none;
   }
 }/*# sourceMappingURL=wcc2024.css.map */
