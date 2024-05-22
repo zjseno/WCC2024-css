@@ -11,10 +11,10 @@
 .home-hero {
   height: 90vh;
 }
-.home-hero .wp-block-column {
+.home-hero .wp-block-columns {
   height: 100%;
 }
-.home-hero .wp-block-column .right-border {
+.home-hero .wp-block-columns .right-border {
   height: 100%;
 }
 .home-hero .home-hero-star {
