@@ -17,6 +17,7 @@
 }
 .home-hero .home-hero-star {
   position: absolute;
+  left: 0;
   bottom: 0px;
 }
 
@@ -37,6 +38,9 @@
   /*Main*/
   main div.wp-block-group {
     padding: 20px 20px;
+  }
+  .home-hero .right-border {
+    display: none;
   }
 }
 /*Mobile*/
