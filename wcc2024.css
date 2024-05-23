@@ -33,7 +33,7 @@
   font-family: var(--wp--preset--font-family--questrial) !important;
 }
 
-.wordcamp-sponsors li.wordcamp-post-list__post {
+li.wcb_sponsor {
   width: 100%;
   background: #fff;
   padding: 10px;
