@@ -102,6 +102,9 @@ li.wcb_sponsor figure {
   bottom: 0;
   right: 0;
 }
+.wcc2024-home-faqs .wcc2024-home-faqs-title {
+  z-index: 999;
+}
 .wcc2024-home-faqs .wcc2024-home-faqs-block {
   width: 100%;
   z-index: 999;
