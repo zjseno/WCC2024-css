@@ -114,10 +114,23 @@ li.wcb_sponsor{
 		}
 	}
 } 
+.wcc2024-home-faq{
+	.wcc2024-home-faq-graphic-2{
+		position: absolute;
+		top: 0;
+	}
+	
+	.wcc2024-home-faq-graphic-1{
+		position: absolute;
+		bottom: 0;
+		right: 0;
+	}
 
-.wcc2024-home-faqs-block{
-	width: 100%;
+	.wcc2024-home-faqs-block{
+		width: 100%;
+	}
 }
+
 
 /*Tablet*/
 @media screen and (max-width: 1072px) {
