@@ -50,9 +50,12 @@ $black: #000;
 
 
 li.wcb_sponsor{
-	width: 100%;
-	aspect-ratio: 1/1;
-	background: $white;
+	display: flex;
+    width: 100%;
+    aspect-ratio: 4 / 2;
+    margin: 10px;
+    background: #fff;
+    justify-content: center;
 }
 
 h2.wp-block-heading {
