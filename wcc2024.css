@@ -89,6 +89,9 @@ li.wcb_sponsor figure {
   background-color: #fff;
   border-radius: 10px;
 }
+.wcc2024-blog-post li.wp-block-post .wp-block-group {
+  padding: 1rem;
+}
 
 /*Tablet*/
 @media screen and (max-width: 1072px) {

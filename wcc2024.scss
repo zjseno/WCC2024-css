@@ -103,11 +103,17 @@ li.wcb_sponsor{
 
 }
 
-.wcc2024-blog-post li.wp-block-post{
-	background-color: $white;
-	border-radius: 10px;
-}
+.wcc2024-blog-post{
+	
+	li.wp-block-post{
+		background-color: $white;
+		border-radius: 10px;
 
+		.wp-block-group{
+			padding: 1rem;
+		}
+	}
+} 
 
 /*Tablet*/
 @media screen and (max-width: 1072px) {
