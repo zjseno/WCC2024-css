@@ -7,6 +7,14 @@ $blue: #3F4FA2;
 $white: #fff;
 $black: #000;
 
+@mixin mobile-column{
+	flex-direction: column;
+}
+
+@mixin mobile-column-reverse{
+	flex-direction: column-reverse;
+}
+
 
 .wp-site-blocks {
 	padding-top: 0;
@@ -154,14 +162,18 @@ li.wcb_sponsor{
 	}
 
 	.wcc2024-home-about{
-		flex-direction: column;
+		@include mobile-column;
 		.wcc2024-home-about-img1{
 			display: none;
 		}
 	}
 
 	.wcc2024-home-expect-reverse{
-		flex-direction: column-reverse;
+		@include mobile-column-reverse;
+	}
+
+	.wcc2024-home-expect{
+		@include mobile-column;
 	}
 
 }
