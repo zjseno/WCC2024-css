@@ -162,6 +162,14 @@ li.wcb_sponsor{
 		}
 	}
 
+	.home-hero{
+
+		.right-border{
+			opacity: 20%;
+		}
+		
+	}
+
 	.wcc2024-home-about{
 		@include mobile-column;
 		.wcc2024-home-about-img1{
