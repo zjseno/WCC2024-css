@@ -104,6 +104,7 @@ li.wcb_sponsor figure {
 }
 .wcc2024-home-faqs .wcc2024-home-faqs-block {
   width: 100%;
+  z-index: 999;
 }
 
 /*Tablet*/
