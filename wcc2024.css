@@ -34,8 +34,6 @@
 }
 
 .wordcamp-sponsors li.wordcamp-post-list__post {
-  display: flex;
-  align-items: center;
   width: 100%;
   background: #fff;
   padding: 10px;
