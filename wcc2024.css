@@ -118,6 +118,7 @@ li.wcb_sponsor figure {
   }
   /*Main*/
   .home-hero .right-border {
+    transition: opacity 3s;
     opacity: 20%;
   }
   .wcc2024-home-about {
