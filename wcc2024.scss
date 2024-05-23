@@ -9,6 +9,7 @@ $black: #000;
 
 @mixin mobile-column{
 	flex-direction: column;
+	align-items: flex-start;
 }
 
 @mixin mobile-column-reverse{
