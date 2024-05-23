@@ -41,6 +41,9 @@ li.wcb_sponsor {
   background: #fff;
   justify-content: center;
 }
+li.wcb_sponsor figure {
+  margin: 0;
+}
 
 h2.wp-block-heading {
   font-size: clamp(2.5rem, 2.5rem + (1vw - 0.48rem) * 1.592, 3rem);
