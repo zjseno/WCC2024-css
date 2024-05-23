@@ -16,13 +16,11 @@ $black: #000;
 	flex-direction: column-reverse;
 }
 
-body{
-	.page-template{
-		main{
-			margin-block-start: 0 !important;
-		}
-	}
+
+main.wp-block-group{
+	margin-block-start: 0 !important;
 }
+
 
 
 .wp-site-blocks {
