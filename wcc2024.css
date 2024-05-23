@@ -93,16 +93,16 @@ li.wcb_sponsor figure {
   padding: 3rem 1.5rem;
 }
 
-.wcc2024-home-faq .wcc2024-home-faq-graphic-2 {
+.wcc2024-home-faqs .wcc2024-home-faqs-graphic-2 {
   position: absolute;
   top: 0;
 }
-.wcc2024-home-faq .wcc2024-home-faq-graphic-1 {
+.wcc2024-home-faqs .wcc2024-home-faqs-graphic-1 {
   position: absolute;
   bottom: 0;
   right: 0;
 }
-.wcc2024-home-faq .wcc2024-home-faqs-block {
+.wcc2024-home-faqs .wcc2024-home-faqs-block {
   width: 100%;
 }
 
