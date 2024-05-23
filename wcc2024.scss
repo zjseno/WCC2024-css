@@ -153,6 +153,13 @@ li.wcb_sponsor{
 		}
 	}
 
+	.wcc2024-home-about{
+		flex-direction: column;
+	}
+
+	.wcc2024-home-expect-reverse{
+		flex-direction: column-reverse;
+	}
 
 }
 
@@ -175,5 +182,9 @@ li.wcb_sponsor{
 
 	li.wcb_sponsor{
 		width: 280px;
+	}
+
+	.wcc2024-home-about{
+
 	}
 }

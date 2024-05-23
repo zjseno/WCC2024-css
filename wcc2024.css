@@ -117,6 +117,12 @@ li.wcb_sponsor figure {
     justify-content: center;
   }
   /*Main*/
+  .wcc2024-home-about {
+    flex-direction: column;
+  }
+  .wcc2024-home-expect-reverse {
+    flex-direction: column-reverse;
+  }
 }
 /*Mobile*/
 @media screen and (max-width: 600px) {
