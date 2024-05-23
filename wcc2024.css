@@ -1,5 +1,5 @@
 body .page-template main {
-  margin-block-start: 0;
+  margin-block-start: 0 !important;
 }
 
 .wp-site-blocks {
