@@ -126,6 +126,9 @@ li.wcb_sponsor figure {
   .wcc2024-home-expect-reverse {
     flex-direction: column-reverse;
   }
+  .wcc2024-home-expect {
+    flex-direction: column;
+  }
 }
 /*Mobile*/
 @media screen and (max-width: 600px) {
