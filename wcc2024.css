@@ -42,6 +42,7 @@ li.wcb_sponsor {
   justify-content: center;
 }
 li.wcb_sponsor figure {
+  padding: 20px;
   margin: 0;
 }
 
