@@ -29,8 +29,8 @@ $black: #000;
 	filter: brightness(95%);
 }
 
-.wp-block-post ul>li>h2>a{
-	font-family: var(--wp--preset--font-family--young-serif);
+.wp-block-post-title a{
+	font-family: var(--wp--preset--font-family--young-serif)!important;
 }
 
 
