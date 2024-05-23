@@ -1,3 +1,7 @@
+body .page-template main {
+  margin: 0;
+}
+
 .wp-site-blocks {
   padding-top: 0;
   padding-bottom: 0;

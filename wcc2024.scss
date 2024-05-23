@@ -16,11 +16,20 @@ $black: #000;
 	flex-direction: column-reverse;
 }
 
+body{
+	.page-template{
+		main{
+			margin:0;
+		}
+	}
+}
+
 
 .wp-site-blocks {
 	padding-top: 0;
 	padding-bottom: 0;
 }
+
 
 h2.wp-block-heading {
 	font-size: clamp(2.5rem,2.5rem + (1vw - .48rem)*1.592,3rem);
@@ -208,7 +217,4 @@ li.wcb_sponsor{
 		width: 280px;
 	}
 
-	.wcc2024-home-about{
-
-	}
 }
