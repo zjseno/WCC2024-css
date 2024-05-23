@@ -8,10 +8,6 @@ $white: #fff;
 $black: #000;
 
 
-.wp-block-button__link:hover {
-	filter: brightness(95%);
-}
-
 .home-hero{
 	position: relative;
 		
@@ -27,6 +23,14 @@ $black: #000;
 	}
 
 	
+}
+
+.wp-block-button__link:hover {
+	filter: brightness(95%);
+}
+
+.wp-block-post ul>li>h2>a{
+	font-family: var(--wp--preset--font-family--young-serif);
 }
 
 
