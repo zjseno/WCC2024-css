@@ -156,33 +156,14 @@ li.wcb_sponsor{
 
 }
 
-//WP-tablet
-@media screen and (max-width: 1072px) {
-	/*Header*/
-	header {
-        .wp-block-group {
-		justify-content: center;
-	}
-    }
-	
-	/*Main*/
-	main {
-        div.wp-block-group {
-			//padding: 20px 20px;
-		}
-	}
-
-
-}
-
 /*Mobile*/
 @media screen and (max-width: 600px) {
 /*Header*/
 	/*Header*/
 	header {
         .wp-block-group {
-		justify-content: space-between;
-	}
+			justify-content: space-between;
+		}
     }
 	.home-hero{
 
@@ -191,21 +172,8 @@ li.wcb_sponsor{
 		}
 		
 	}
-}
 
-@media screen and (max-width: 600px) {
-	/*Header*/
-		/*Header*/
-		header {
-			.wp-block-group {
-			justify-content: space-between;
-		}
-		}
-		.home-hero{
-	
-			.right-border{
-				display: none;
-			}
-			
-		}
+	li.wcb_sponsor{
+		width: 250px;
 	}
+}

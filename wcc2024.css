@@ -118,13 +118,6 @@ li.wcb_sponsor figure {
   }
   /*Main*/
 }
-@media screen and (max-width: 1072px) {
-  /*Header*/
-  header .wp-block-group {
-    justify-content: center;
-  }
-  /*Main*/
-}
 /*Mobile*/
 @media screen and (max-width: 600px) {
   /*Header*/
@@ -135,14 +128,7 @@ li.wcb_sponsor figure {
   .home-hero .right-border {
     display: none;
   }
-}
-@media screen and (max-width: 600px) {
-  /*Header*/
-  /*Header*/
-  header .wp-block-group {
-    justify-content: space-between;
-  }
-  .home-hero .right-border {
-    display: none;
+  li.wcb_sponsor {
+    width: 250px;
   }
 }/*# sourceMappingURL=wcc2024.css.map */
