@@ -114,6 +114,10 @@ li.wcb_sponsor figure {
   z-index: 999;
 }
 
+footer h2 {
+  color: #fff;
+}
+
 /*Tablet*/
 @media screen and (max-width: 1072px) {
   /*Header*/
