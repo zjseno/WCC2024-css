@@ -118,7 +118,7 @@ footer h2 {
   color: #fff;
 }
 footer .footer-hide {
-  display: none;
+  display: none !important;
 }
 
 /*Tablet*/
