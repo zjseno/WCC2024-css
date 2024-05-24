@@ -152,8 +152,14 @@ li.wcb_sponsor{
 	}
 }
 
-footer h2{
+footer {
+	h2{
 	color: $white;
+
+	.footer-hide{
+		display: none;
+	}
+}
 }
 
 
