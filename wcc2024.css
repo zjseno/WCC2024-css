@@ -114,6 +114,10 @@ li.wcb_sponsor figure {
   z-index: 999;
 }
 
+.contact-form .grunion-field-wrap input.radio {
+  border-color: #fff;
+}
+
 footer h2 {
   color: #fff;
 }
