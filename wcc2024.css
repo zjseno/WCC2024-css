@@ -117,7 +117,7 @@ li.wcb_sponsor figure {
 .contact-form .grunion-field-wrap input.radio {
   border: 2px solid #fff !important;
 }
-.contact-form .grunion-field-wrap input.radio :before {
+.contact-form .grunion-field-wrap input.radio:before {
   background-color: #fff;
 }
 

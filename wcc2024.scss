@@ -155,7 +155,7 @@ li.wcb_sponsor{
 .contact-form .grunion-field-wrap input.radio{
 	border: 2px solid $white !important;
 
-	:before{
+	&:before{
 		background-color: $white;
 	}
 }
