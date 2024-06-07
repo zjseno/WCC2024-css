@@ -124,7 +124,6 @@ li.wcb_sponsor figure {
 div.tix-js form p input[type=submit] {
   width: 50%;
   padding: 15px 30px;
-  border-radius: 5px;
   background-color: #FBA919;
   color: #000;
   font-family: var(--wp--preset--font-family--questrial);
