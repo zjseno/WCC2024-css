@@ -121,6 +121,17 @@ li.wcb_sponsor figure {
   background-color: #fff !important;
 }
 
+div.tix-js form p input[type=submit] {
+  padding: 15px 20px;
+  border-radius: 5px;
+  background-color: #FBA919;
+  color: #000;
+  font-family: var(--wp--preset--font-family--questrial);
+  font-size: var(--wp--preset--font-size--small);
+  font-style: normal;
+  font-weight: 500;
+}
+
 table.tix_tickets_table.tix-tickets-list {
   text-align: left;
   width: 100%;
