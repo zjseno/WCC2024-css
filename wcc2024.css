@@ -127,8 +127,8 @@ div.tix-js form p input[type=submit] {
   background-color: #FBA919;
   color: #000;
   font-family: var(--wp--preset--font-family--questrial);
-  font-size: var(--wp--preset--font-size--small);
-  font-style: normal;
+  font-size: 16px;
+  text-transform: uppercase;
   font-weight: 600;
 }
 
