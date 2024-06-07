@@ -189,6 +189,10 @@ table.tix_tickets_table.tix-order-summary tr.tix-row-total td:nth-child(2) {
   background-color: #FBA919;
   color: #000;
 }
+table.tix_tickets_table.tix-order-summary th.tix-column-price, table.tix_tickets_table.tix-order-summary td.tix-column-price {
+  text-align: right !important;
+  padding-right: 20px;
+}
 
 footer h2 {
   color: #fff;

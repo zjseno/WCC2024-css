@@ -246,6 +246,11 @@ table.tix_tickets_table.tix-order-summary{
 		}
 	}
 
+	th.tix-column-price, td.tix-column-price{
+		text-align: right !important;
+		padding-right: 20px;
+	}
+
 }
 
 footer {
