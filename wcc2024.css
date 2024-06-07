@@ -197,9 +197,10 @@ table.tix_tickets_table.tix-order-summary th.tix-column-price, table.tix_tickets
 
 table.tix_tickets_table.tix-attendee-form tr {
   padding: 10px 0px;
+  margin: 10px 0px;
 }
 table.tix_tickets_table.tix-attendee-form tr td.tix-right input {
-  padding: 20px;
+  padding: 10px;
 }
 div.tix-submit {
   color: #fff;
