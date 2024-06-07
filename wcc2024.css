@@ -121,6 +121,14 @@ li.wcb_sponsor figure {
   background-color: #fff !important;
 }
 
+table.tix_tickets_table.tix-tickets-list {
+  text-align: left;
+  width: 100%;
+}
+table.tix_tickets_table.tix-tickets-list th.tix-column-price, table.tix_tickets_table.tix-tickets-list td.tix-column-price {
+  display: none;
+}
+
 footer h2 {
   color: #fff;
 }

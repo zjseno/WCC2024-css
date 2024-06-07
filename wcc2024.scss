@@ -160,6 +160,15 @@ li.wcb_sponsor{
 	}
 }
 
+table.tix_tickets_table.tix-tickets-list{
+	text-align: left;
+	width: 100%;
+
+	th.tix-column-price, td.tix-column-price{
+		display: none;
+	}
+}
+
 footer {
 	h2{
 	color: $white;
