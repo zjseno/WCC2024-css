@@ -215,7 +215,7 @@ div.tix-submit .tix-payment-method .tix-payment-tab {
   border-color: #fff;
 }
 div.tix-submit .tix-payment-method-container .tix-alternate-payment-option label {
-  border-color: #fff;
+  color: #fff !important;
 }
 div.tix-submit input[type=submit] {
   width: 50%;
