@@ -176,6 +176,7 @@ div.tix-js{
 		}
 	}
 }
+
 table.tix_tickets_table.tix-tickets-list{
 	text-align: left;
 	width: 100%;
@@ -221,6 +222,30 @@ table.tix_tickets_table.tix-tickets-list{
 			padding: 10px;
 		}
 	}
+}
+
+table.tix_tickets_table.tix-order-summary{
+	text-align: left;
+	width: 100%;
+
+	th, td{
+		padding-bottom: 20px;
+	}
+
+	td.tix-column-description {
+		font-size: clamp(1.2rem,1.2rem + (1vw - .48rem)*1.592,1.5rem);
+		font-family: var(--wp--preset--font-family--young-serif)!important;
+		line-height: 1.4;
+	}
+
+	tr.tix-row-total{
+		td:nth-child(2){
+			padding: 20px;
+			background-color: $yellow;
+			color: $black;
+		}
+	}
+
 }
 
 footer {
