@@ -249,7 +249,7 @@ table.tix_tickets_table.tix-order-summary{
 
 	th.tix-column-price, td.tix-column-price{
 		text-align: right !important;
-		padding-right: 20px;
+		padding-right: 10px;
 	}
 
 }
@@ -282,7 +282,14 @@ table.tix_tickets_table.tix-attendee-form{
 
 div.tix-submit{
 
-	color: $white;
+	.tix-payment-method {
+		button{
+			color: $white;
+		}
+		.tix-payment-tab{
+			border-color: $white;
+		}
+	}	
 
 	input[type="submit"]{
 		width: 50%;
