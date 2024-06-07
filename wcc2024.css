@@ -185,6 +185,7 @@ table.tix_tickets_table.tix-order-summary td.tix-column-description {
   line-height: 1.4;
 }
 table.tix_tickets_table.tix-order-summary tr.tix-row-total td:nth-child(2) {
+  text-align: right !important;
   padding: 20px;
   background-color: #FBA919;
   color: #000;

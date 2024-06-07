@@ -240,6 +240,7 @@ table.tix_tickets_table.tix-order-summary{
 
 	tr.tix-row-total{
 		td:nth-child(2){
+			text-align: right !important;
 			padding: 20px;
 			background-color: $yellow;
 			color: $black;
