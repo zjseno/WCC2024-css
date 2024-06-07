@@ -196,7 +196,7 @@ table.tix_tickets_table.tix-order-summary th.tix-column-price, table.tix_tickets
 }
 
 table.tix_tickets_table.tix-attendee-form tr td {
-  padding: 10px 0px;
+  padding: 15px 0px;
 }
 table.tix_tickets_table.tix-attendee-form tr td.tix-right, table.tix_tickets_table.tix-attendee-form tr td.tix-left {
   width: 50% !important;
