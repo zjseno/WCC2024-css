@@ -125,8 +125,8 @@ table.tix_tickets_table.tix-tickets-list {
   text-align: left;
   width: 100%;
 }
-table.tix_tickets_table.tix-tickets-list tr {
-  margin-bottom: 20px;
+table.tix_tickets_table.tix-tickets-list th, table.tix_tickets_table.tix-tickets-list td {
+  padding-bottom: 20px;
 }
 table.tix_tickets_table.tix-tickets-list tr.tix-ticket-749 th.tix-column-description label.tix-ticket-title, table.tix_tickets_table.tix-tickets-list tr.tix-ticket-748 th.tix-column-description label.tix-ticket-title, table.tix_tickets_table.tix-tickets-list tr.tix-ticket-746 th.tix-column-description label.tix-ticket-title {
   font-size: clamp(1.2rem, 1.2rem + (1vw - 0.48rem) * 1.592, 1.5rem);

@@ -164,8 +164,8 @@ table.tix_tickets_table.tix-tickets-list{
 	text-align: left;
 	width: 100%;
 
-	tr{
-		margin-bottom: 20px;
+	th, td{
+		padding-bottom: 20px;
 	}
 
 	tr.tix-ticket-749 th.tix-column-description label.tix-ticket-title, tr.tix-ticket-748 th.tix-column-description label.tix-ticket-title, tr.tix-ticket-746 th.tix-column-description label.tix-ticket-title{
