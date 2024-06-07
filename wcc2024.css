@@ -204,7 +204,7 @@ table.tix_tickets_table.tix-attendee-form tr td.tix-right, table.tix_tickets_tab
 table.tix_tickets_table.tix-attendee-form tr td.tix-right {
   padding-left: 30px;
 }
-table.tix_tickets_table.tix-attendee-form tr td.tix-right input[type=text] {
+table.tix_tickets_table.tix-attendee-form tr td.tix-right input[type=text], table.tix_tickets_table.tix-attendee-form tr td.tix-right input[type=email] {
   width: 100% !important;
   padding: 10px;
 }
