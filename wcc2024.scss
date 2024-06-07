@@ -191,6 +191,20 @@ table.tix_tickets_table.tix-tickets-list{
 	th.tix-column-quantity, td.tix-column-quantity{
 		text-align: right !important;
 	}
+
+	select{
+		padding: 10px;
+		border-radius: 5px;
+		font-family: var(--wp--preset--font-family--questrial);
+		font-size: var(--wp--preset--font-size--medium);
+		font-style: normal;
+		font-weight: 400;
+		line-height: 1.55;
+		
+		option{
+			padding: 10px;
+		}
+	}
 }
 
 footer {
