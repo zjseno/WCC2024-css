@@ -267,7 +267,7 @@ footer .footer-hide {
   header .wp-block-group {
     justify-content: space-between;
   }
-  .home-hero .right-border {
+  .home-hero .right-border, .home-hero .home-hero-star {
     display: none;
   }
   li.wcb_sponsor {
