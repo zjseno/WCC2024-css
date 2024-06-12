@@ -150,6 +150,7 @@ li.wcb_sponsor{
 
 .wcc2024-inner-title{
 	background-repeat: repeat-x !important;
+	min-height: 250px;
 }
 
 .contact-form .grunion-field-wrap input.radio{
@@ -359,6 +360,9 @@ footer {
 		@include mobile-column;
 	}
 
+	.wcc2024-inner-title{
+		min-height: 200px;
+	}
 }
 
 /*Mobile*/
@@ -377,6 +381,10 @@ footer {
 		}
 
 		
+	}
+
+	.wcc2024-inner-title{
+		min-height: 180px;
 	}
 
 	li.wcb_sponsor{
