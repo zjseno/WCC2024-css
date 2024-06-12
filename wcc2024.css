@@ -115,7 +115,7 @@ li.wcb_sponsor figure {
 }
 
 .wcc2024-inner-title {
-  background-repeat: repeat-y;
+  background-repeat: repeat-y !important;
 }
 
 .contact-form .grunion-field-wrap input.radio {
