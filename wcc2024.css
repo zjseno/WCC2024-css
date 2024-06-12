@@ -114,6 +114,13 @@ li.wcb_sponsor figure {
   z-index: 999;
 }
 
+.wcc2024-inner-title {
+  background-image: url("https://cebu.wordcamp.org/2024/files/2024/06/wcc2024-inner-title_banner.webp");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: top;
+}
+
 .contact-form .grunion-field-wrap input.radio {
   border: 2px solid #fff !important;
 }

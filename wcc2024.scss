@@ -16,18 +16,14 @@ $black: #000;
 	flex-direction: column-reverse;
 }
 
-
 main.wp-block-group{
 	margin-block-start: 0 !important;
 }
-
-
 
 .wp-site-blocks {
 	padding-top: 0;
 	padding-bottom: 0;
 }
-
 
 h2.wp-block-heading {
 	font-size: clamp(2.5rem,2.5rem + (1vw - .48rem)*1.592,3rem);
@@ -150,6 +146,13 @@ li.wcb_sponsor{
 		width: 100%;
 		z-index: 999;
 	}
+}
+
+.wcc2024-inner-title{
+	background-image: url("https://cebu.wordcamp.org/2024/files/2024/06/wcc2024-inner-title_banner.webp");
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: top;
 }
 
 .contact-form .grunion-field-wrap input.radio{
