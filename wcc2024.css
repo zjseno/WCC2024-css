@@ -114,6 +114,10 @@ li.wcb_sponsor figure {
   z-index: 999;
 }
 
+.wcc2024-inner-title {
+  background-repeat: repeat-y;
+}
+
 .contact-form .grunion-field-wrap input.radio {
   border: 2px solid #fff !important;
 }
