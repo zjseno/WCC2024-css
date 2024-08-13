@@ -144,7 +144,7 @@ table.tix_tickets_table.tix-tickets-list {
 table.tix_tickets_table.tix-tickets-list th, table.tix_tickets_table.tix-tickets-list td {
   padding-bottom: 20px;
 }
-table.tix_tickets_table.tix-tickets-list tr.tix-ticket-749 th.tix-column-description label.tix-ticket-title, table.tix_tickets_table.tix-tickets-list tr.tix-ticket-748 th.tix-column-description label.tix-ticket-title, table.tix_tickets_table.tix-tickets-list tr.tix-ticket-746 th.tix-column-description label.tix-ticket-title {
+table.tix_tickets_table.tix-tickets-list tr.tix-ticket-749 th.tix-column-description label.tix-ticket-title, table.tix_tickets_table.tix-tickets-list tr.tix-ticket-748 th.tix-column-description label.tix-ticket-title, table.tix_tickets_table.tix-tickets-list tr.tix-ticket-746 th.tix-column-description label.tix-ticket-title, table.tix_tickets_table.tix-tickets-list tr.tix-ticket-1325 th.tix-column-description label.tix-ticket-title {
   font-size: clamp(1.2rem, 1.2rem + (1vw - 0.48rem) * 1.592, 1.5rem);
   font-family: var(--wp--preset--font-family--young-serif) !important;
   line-height: 1.4;
@@ -157,6 +157,9 @@ table.tix_tickets_table.tix-tickets-list tr.tix-ticket-748 th.tix-column-descrip
 }
 table.tix_tickets_table.tix-tickets-list tr.tix-ticket-746 th.tix-column-description label.tix-ticket-title {
   color: #FBA919;
+}
+table.tix_tickets_table.tix-tickets-list tr.tix-ticket-1325 th.tix-column-description label.tix-ticket-title {
+  color: #fff;
 }
 table.tix_tickets_table.tix-tickets-list th.tix-column-price, table.tix_tickets_table.tix-tickets-list td.tix-column-price {
   display: none;
