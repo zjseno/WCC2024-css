@@ -140,11 +140,19 @@ body.page-id-753, body.page-id-14, body.page-id-10{
 			border-radius: 100%;
 			background: white;
 		}
-	}
-	ul.tix-attendee-list.tix-columns-3 {
-		display: flex;
-		flex-direction: row;
-		flex-wrap: wrap;
+
+		ul.tix-attendee-list.tix-columns-3 {
+			display: flex;
+			flex-direction: row;
+			flex-wrap: wrap;
+
+			li{
+				.tix-field{
+					margin-top: 20px !important;
+					margin-left: 90px !important;
+				}
+			}
+		}
 	}
 }
 

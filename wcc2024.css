@@ -106,10 +106,14 @@ body.page-id-753 div#tix-attendees .avatar, body.page-id-14 div#tix-attendees .a
   border-radius: 100%;
   background: white;
 }
-body.page-id-753 ul.tix-attendee-list.tix-columns-3, body.page-id-14 ul.tix-attendee-list.tix-columns-3, body.page-id-10 ul.tix-attendee-list.tix-columns-3 {
+body.page-id-753 div#tix-attendees ul.tix-attendee-list.tix-columns-3, body.page-id-14 div#tix-attendees ul.tix-attendee-list.tix-columns-3, body.page-id-10 div#tix-attendees ul.tix-attendee-list.tix-columns-3 {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+}
+body.page-id-753 div#tix-attendees ul.tix-attendee-list.tix-columns-3 li .tix-field, body.page-id-14 div#tix-attendees ul.tix-attendee-list.tix-columns-3 li .tix-field, body.page-id-10 div#tix-attendees ul.tix-attendee-list.tix-columns-3 li .tix-field {
+  margin-top: 20px !important;
+  margin-left: 90px !important;
 }
 
 .wcc2024-blog-post li.wp-block-post {
