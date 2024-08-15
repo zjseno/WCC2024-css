@@ -123,6 +123,7 @@ body.page-id-753 div#tix-attendees ul.tix-attendee-list.tix-columns-3 li .tix-fi
 }
 body.page-id-753 div#tix-attendees ul.tix-attendee-list.tix-columns-3 li .tix-field span, body.page-id-14 div#tix-attendees ul.tix-attendee-list.tix-columns-3 li .tix-field span, body.page-id-10 div#tix-attendees ul.tix-attendee-list.tix-columns-3 li .tix-field span {
   font-family: var(--wp--preset--font-family--young-serif) !important;
+  font-size: 1.2em;
 }
 
 .wcc2024-blog-post li.wp-block-post {
