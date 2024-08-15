@@ -329,6 +329,10 @@ section.wordcamp-schedule__day{
 		color: $black;
 	}
 
+	div.wordcamp-schedule__session.has-slug-lunch-break{
+		background-color: $orange !important;
+	}
+
 }
 
 

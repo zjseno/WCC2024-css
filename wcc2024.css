@@ -249,6 +249,9 @@ section.wordcamp-schedule__day span.wordcamp-schedule__column-header {
   background-color: #FBA919 !important;
   color: #000;
 }
+section.wordcamp-schedule__day div.wordcamp-schedule__session.has-slug-lunch-break {
+  background-color: #F15824 !important;
+}
 
 footer h2 {
   color: #fff;
