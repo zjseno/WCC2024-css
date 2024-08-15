@@ -327,4 +327,9 @@ footer .footer-hide {
   body.page-id-161 li.wcb_sponsor {
     width: 280px;
   }
+  body.page-id-753 ul.tix-attendee-list.tix-columns-3 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
 }/*# sourceMappingURL=wcc2024.css.map */
