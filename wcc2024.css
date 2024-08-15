@@ -239,7 +239,7 @@ div.tix-submit input[type=submit] {
 section.wordcamp-schedule__day {
   color: #000;
 }
-section.wordcamp-schedule__day h4.wordcamp-schedule__session-title, section.wordcamp-schedule__day dl.wordcamp-schedule__session-speakers {
+section.wordcamp-schedule__day h4.wordcamp-schedule__session-title, section.wordcamp-schedule__day h4.wordcamp-schedule__session-title > a, section.wordcamp-schedule__day dl.wordcamp-schedule__session-speakers {
   color: #000;
 }
 section.wordcamp-schedule__day span.wordcamp-schedule__column-header {
