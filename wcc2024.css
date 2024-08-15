@@ -123,6 +123,10 @@ body.page-id-753 div#tix-attendees ul.tix-attendee-list.tix-columns-3 li .tix-fi
   font-size: 1.2em;
 }
 
+body.page-id-753 div#tix-attendees, body.page-id-14 div#tix-attendees {
+  max-width: 1280px !important;
+}
+
 .wcc2024-blog-post li.wp-block-post {
   background-color: #fff;
   border-radius: 10px;
