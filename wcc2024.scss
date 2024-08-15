@@ -119,10 +119,11 @@ body.page-id-161{
 body.page-id-10{
 	li.wcb_sponsor{
 		margin: 10px 0px;
+		padding: 20px;
 		background-color: $white;
 		border-radius: var(--wp--preset--spacing--20);
 
-		h2.wp-block-post-title, p.wp-block-post-excerpt__excerpt{
+		h2.wp-block-post-title>a, p.wp-block-post-excerpt__excerpt{
 			color: $black;
 		}
 	}

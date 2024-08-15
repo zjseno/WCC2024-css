@@ -91,10 +91,11 @@ body.page-id-161 li.wcb_sponsor figure {
 
 body.page-id-10 li.wcb_sponsor {
   margin: 10px 0px;
+  padding: 20px;
   background-color: #fff;
   border-radius: var(--wp--preset--spacing--20);
 }
-body.page-id-10 li.wcb_sponsor h2.wp-block-post-title, body.page-id-10 li.wcb_sponsor p.wp-block-post-excerpt__excerpt {
+body.page-id-10 li.wcb_sponsor h2.wp-block-post-title > a, body.page-id-10 li.wcb_sponsor p.wp-block-post-excerpt__excerpt {
   color: #000;
 }
 
