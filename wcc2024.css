@@ -236,6 +236,11 @@ div.tix-submit input[type=submit] {
   font-weight: 600;
 }
 
+span.wordcamp-schedule__column-header {
+  background-color: #FBA919;
+  color: #000;
+}
+
 footer h2 {
   color: #fff;
 }
