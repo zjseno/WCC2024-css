@@ -316,7 +316,7 @@ div.tix-submit{
 section.wordcamp-schedule__day{
 	color: $black;
 
-	h4.wordcamp-schedule__session-title,h4.wordcamp-schedule__session-title>a, dl.wordcamp-schedule__session-speakers{
+	h4.wordcamp-schedule__session-title,h4.wordcamp-schedule__session-title>a, dl.wordcamp-schedule__session-speakers,dl.wordcamp-schedule__session-speakers>dd>a{
 		color: $black;
 	}
 
