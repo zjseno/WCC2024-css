@@ -121,6 +121,9 @@ body.page-id-753 div#tix-attendees ul.tix-attendee-list.tix-columns-3 li .tix-fi
   margin-top: 20px !important;
   margin-left: 100px !important;
 }
+body.page-id-753 div#tix-attendees ul.tix-attendee-list.tix-columns-3 li .tix-field span, body.page-id-14 div#tix-attendees ul.tix-attendee-list.tix-columns-3 li .tix-field span, body.page-id-10 div#tix-attendees ul.tix-attendee-list.tix-columns-3 li .tix-field span {
+  font-family: var(--wp--preset--font-family--young-serif) !important;
+}
 
 .wcc2024-blog-post li.wp-block-post {
   background-color: #fff;
