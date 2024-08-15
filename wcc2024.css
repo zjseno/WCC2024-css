@@ -256,6 +256,10 @@ section.wordcamp-schedule__day div#wordcamp-schedule__session-1363 {
   background-color: #F15824 !important;
 }
 
+div.entry-content.wp-block-post-content {
+  margin-top: 20px;
+}
+
 footer h2 {
   color: #fff;
 }
