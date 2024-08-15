@@ -99,9 +99,6 @@ body.page-id-10 li.wcb_sponsor h2.wp-block-post-title > a, body.page-id-10 li.wc
   color: #000;
 }
 
-body.page-id-753 div#tix-attendees, body.page-id-14 div#tix-attendees, body.page-id-10 div#tix-attendees {
-  max-width: 1280px !important;
-}
 body.page-id-753 div#tix-attendees .avatar, body.page-id-14 div#tix-attendees .avatar, body.page-id-10 div#tix-attendees .avatar {
   float: left !important;
   width: 80px !important;
