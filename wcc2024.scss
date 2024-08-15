@@ -133,6 +133,7 @@ body.page-id-10{
 
 body.page-id-753, body.page-id-14, body.page-id-10{
 	div#tix-attendees{
+		max-width: 1280px !important;
 		.avatar{
 			float: left !important;
 			width: 80px !important;
@@ -147,10 +148,12 @@ body.page-id-753, body.page-id-14, body.page-id-10{
 			flex-wrap: wrap;
 
 			li{
+				margin-bottom: 50px !important;
 				.tix-field{
 					margin-top: 20px !important;
 					margin-left: 90px !important;
 				}
+				
 			}
 		}
 	}
