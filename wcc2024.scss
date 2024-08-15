@@ -126,6 +126,13 @@ body.page-id-10{
 		h2.wp-block-post-title>a, p.wp-block-post-excerpt__excerpt{
 			color: $black;
 		}
+
+		
+	}
+	ul.tix-attendee-list.tix-columns-3 {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
 	}
 }
 
@@ -448,7 +455,8 @@ footer {
 		}
 	}
 
-	body.page-id-753, body.page-id-14{
+
+	body.page-id-753, body.page-id-14, body.page-id-10{
 		ul.tix-attendee-list.tix-columns-3 {
 			display: flex;
 			flex-direction: column;
