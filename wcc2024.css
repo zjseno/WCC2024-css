@@ -332,4 +332,7 @@ footer .footer-hide {
     flex-direction: column;
     flex-wrap: wrap;
   }
+  body.page-id-753 ul.tix-attendee-list.tix-columns-3 li {
+    width: 100% !important;
+  }
 }/*# sourceMappingURL=wcc2024.css.map */

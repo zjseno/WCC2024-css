@@ -453,6 +453,10 @@ footer {
 			display: flex;
 			flex-direction: column;
 			flex-wrap: wrap;
+
+			li{
+				width: 100% !important;
+			}
 		}
 	}
 }
