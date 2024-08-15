@@ -76,6 +76,11 @@ h5.wp-block-heading, h6.wp-block-heading {
   font-family: var(--wp--preset--font-family--questrial) !important;
 }
 
+.wp-block-navigation__responsive-container a.wp-block-navigation-item__content {
+  font-weight: 500;
+  font-size: 1.2em;
+}
+
 body.page-id-161 li.wcb_sponsor {
   display: flex;
   width: 100%;
