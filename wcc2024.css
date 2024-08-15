@@ -249,10 +249,10 @@ section.wordcamp-schedule__day span.wordcamp-schedule__column-header {
   background-color: #FBA919 !important;
   color: #000;
 }
-section.wordcamp-schedule__day div.wordcamp-schedule__session#wordcamp-schedule__session-1363 {
+section.wordcamp-schedule__day div#wordcamp-schedule__session-1363.wordcamp-schedule__session {
   background-color: #F15824 !important;
 }
-section.wordcamp-schedule__day div.wordcamp-schedule__session#wordcamp-schedule__session-1363 h4 {
+section.wordcamp-schedule__day div#wordcamp-schedule__session-1363.wordcamp-schedule__session h4 {
   justify-content: center;
 }
 
