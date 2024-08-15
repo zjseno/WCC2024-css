@@ -315,11 +315,18 @@ div.tix-submit{
 
 section.wordcamp-schedule__day{
 	color: $black;
+
+	h4.wordcamp-schedule__session-title, dl.wordcamp-schedule__session-speakers{
+		color: $black;
+	}
+
+	span.wordcamp-schedule__column-header{
+		background-color: $yellow !important;
+		color: $black;
+	}
+
 }
-span.wordcamp-schedule__column-header{
-	background-color: $yellow !important;
-	color: $black;
-}
+
 
 footer {
 	h2{
