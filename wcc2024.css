@@ -89,6 +89,15 @@ body.page-id-161 li.wcb_sponsor figure {
   margin: 0;
 }
 
+body.page-id-10 li.wcb_sponsor {
+  margin: 10px 0px;
+  background-color: #fff;
+  border-radius: var(--wp--preset--spacing--20);
+}
+body.page-id-10 li.wcb_sponsor h2.wp-block-post-title, body.page-id-10 li.wcb_sponsor p.wp-block-post-excerpt__excerpt {
+  color: #000;
+}
+
 .wcc2024-blog-post li.wp-block-post {
   background-color: #fff;
   border-radius: 10px;
