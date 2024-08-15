@@ -237,7 +237,7 @@ div.tix-submit input[type=submit] {
 }
 
 span.wordcamp-schedule__column-header {
-  background-color: #FBA919;
+  background-color: #FBA919 !important;
   color: #000;
 }
 
