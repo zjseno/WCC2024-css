@@ -99,7 +99,7 @@ body.page-id-10 li.wcb_sponsor h2.wp-block-post-title > a, body.page-id-10 li.wc
   color: #000;
 }
 
-body.page-id-753 ul.tix-attendee-list.tix-columns-3 {
+body.page-id-753 ul.tix-attendee-list.tix-columns-3, body.page-id-14 ul.tix-attendee-list.tix-columns-3 {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -327,12 +327,12 @@ footer .footer-hide {
   body.page-id-161 li.wcb_sponsor {
     width: 280px;
   }
-  body.page-id-753 ul.tix-attendee-list.tix-columns-3 {
+  body.page-id-753 ul.tix-attendee-list.tix-columns-3, body.page-id-14 ul.tix-attendee-list.tix-columns-3 {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
   }
-  body.page-id-753 ul.tix-attendee-list.tix-columns-3 li {
+  body.page-id-753 ul.tix-attendee-list.tix-columns-3 li, body.page-id-14 ul.tix-attendee-list.tix-columns-3 li {
     width: 100% !important;
   }
 }/*# sourceMappingURL=wcc2024.css.map */
