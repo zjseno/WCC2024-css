@@ -76,7 +76,7 @@ h5.wp-block-heading, h6.wp-block-heading {
   font-family: var(--wp--preset--font-family--questrial) !important;
 }
 
-li.wcb_sponsor {
+body.page-id-161 li.wcb_sponsor {
   display: flex;
   width: 100%;
   aspect-ratio: 4/2;
@@ -84,7 +84,7 @@ li.wcb_sponsor {
   background: #fff;
   justify-content: center;
 }
-li.wcb_sponsor figure {
+body.page-id-161 li.wcb_sponsor figure {
   padding: 20px;
   margin: 0;
 }
@@ -308,7 +308,7 @@ footer .footer-hide {
   .wcc2024-inner-title {
     min-height: 180px;
   }
-  li.wcb_sponsor {
+  body.page-id-161 li.wcb_sponsor {
     width: 280px;
   }
 }/*# sourceMappingURL=wcc2024.css.map */

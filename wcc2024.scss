@@ -100,19 +100,20 @@ h5.wp-block-heading,h6.wp-block-heading {
 }
 
 
-li.wcb_sponsor{
-	display: flex;
-    width: 100%;
-    aspect-ratio: 4 / 2;
-    margin: 10px;
-    background: #fff;
-    justify-content: center;
+body.page-id-161{
+	li.wcb_sponsor{
+		display: flex;
+		width: 100%;
+		aspect-ratio: 4 / 2;
+		margin: 10px;
+		background: #fff;
+		justify-content: center;
 
-	figure{
-		padding: 20px;
-		margin: 0;
+		figure{
+			padding: 20px;
+			margin: 0;
+		}
 	}
-
 }
 
 .wcc2024-blog-post{
@@ -420,8 +421,9 @@ footer {
 		min-height: 180px;
 	}
 
-	li.wcb_sponsor{
-		width: 280px;
+	body.page-id-161{
+		li.wcb_sponsor{
+			width: 280px;
+		}
 	}
-
 }
