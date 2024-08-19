@@ -100,7 +100,7 @@ body.page-id-10 li.wcb_sponsor {
   background-color: #fff;
   border-radius: var(--wp--preset--spacing--20);
 }
-body.page-id-10 li.wcb_sponsor h2.wp-block-post-title > a, body.page-id-10 li.wcb_sponsor p {
+body.page-id-10 li.wcb_sponsor h2.wp-block-post-title > a, body.page-id-10 li.wcb_sponsor p, body.page-id-10 li.wcb_sponsor p > a {
   color: #000;
 }
 

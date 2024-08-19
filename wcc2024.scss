@@ -130,7 +130,7 @@ body.page-id-10{
 		background-color: $white;
 		border-radius: var(--wp--preset--spacing--20);
 
-		h2.wp-block-post-title>a, p{
+		h2.wp-block-post-title>a, p, p>a{
 			color: $black;
 		}
 
